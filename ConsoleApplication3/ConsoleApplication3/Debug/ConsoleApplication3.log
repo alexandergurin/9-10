@@ -1,0 +1,31 @@
+﻿Построение начато 24-Dec-16 6:51:57 AM.
+     1>Проект "C:\Users\Vartotojas\Desktop\2 course\oop\9-10\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(66): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(107): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(142): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(147): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\vartotojas\desktop\2 course\oop\9-10\consoleapplication3\consoleapplication3\main.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Vartotojas\Desktop\2 course\oop\9-10\ConsoleApplication3\Debug\ConsoleApplication3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Vartotojas\Desktop\2 course\oop\9-10\ConsoleApplication3\Debug\ConsoleApplication3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Vartotojas\Desktop\2 course\oop\9-10\ConsoleApplication3\Debug\ConsoleApplication3.lib" /MACHINE:X86 Debug\main.obj
+         ConsoleApplication3.vcxproj -> C:\Users\Vartotojas\Desktop\2 course\oop\9-10\ConsoleApplication3\Debug\ConsoleApplication3.exe
+     1>Построение проекта "C:\Users\Vartotojas\Desktop\2 course\oop\9-10\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.45

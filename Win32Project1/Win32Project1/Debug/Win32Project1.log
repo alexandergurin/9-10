@@ -1,0 +1,14 @@
+﻿Построение начато 24-Dec-16 11:27:52 AM.
+     1>Проект "C:\Users\Vartotojas\Desktop\2 course\oop\9-10\Win32Project1\Win32Project1\Win32Project1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Vartotojas\Desktop\2 course\oop\9-10\Win32Project1\Debug\Win32Project1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Vartotojas\Desktop\2 course\oop\9-10\Win32Project1\Debug\Win32Project1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Vartotojas\Desktop\2 course\oop\9-10\Win32Project1\Debug\Win32Project1.lib" /MACHINE:X86 Debug\main.obj
+     1>LINK : fatal error LNK1168: не удается открыть C:\Users\Vartotojas\Desktop\2 course\oop\9-10\Win32Project1\Debug\Win32Project1.exe для записи
+     1>Построение проекта "C:\Users\Vartotojas\Desktop\2 course\oop\9-10\Win32Project1\Win32Project1\Win32Project1.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:02.85
